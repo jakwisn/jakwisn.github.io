@@ -9,18 +9,17 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>jakwisn@gmail.com</p>
-    <p>+45 31 78 52 46</p>
-    <p>Copenhagen</p>
+    <p>jakwisn@gmail.com</p><br>
+    <p>+45 31 78 52 46</p><br>
+    <p>Copenhagen</p><br>
 
 news: False # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi I am Jakub Wisniewski - data scientist with expertise in AI and experience in researching and developing DS and ML solutions. Demonstrated leadership through academic and professional contributions, including research, mentorship, and organizing events. I am really interested in how AI can automate and help solving complex problems - especially the ones at scale.
+Hi, I'm Jakub Wisniewski, a data scientist specializing in AI with a strong background in developing and researching data science and machine learning solutions. I have demonstrated leadership through my academic and professional contributions, including research, mentorship, and event organization. My passion lies in leveraging AI to automate and solve complex problems, particularly those at scale.
 
-Currently I am a student of artificial intelligence at DTU working as a data scientist in SEB. Right now I am working on my master thesis where I am deploying AI models based on ultrasound video feed that will act as navigational support for novice sonographers.
+Currently, I am pursuing a degree in artificial intelligence at DTU while working as a data scientist at SEB. My master’s thesis involves deploying AI models based on ultrasound video feeds to provide navigational support for novice sonographers. I have extensive experience working with various data modalities, from tabular financial data to images, videos, and text.
 
-Upon graduation, I intend to seek a new position where I can leverage and further advance my skills in AI.
-
+Upon graduation, I am eager to find a new position where I can apply and further develop my AI skills.
