@@ -23,4 +23,4 @@ Hi, I'm Jakub Wisniewski, a data scientist specializing in AI with a strong back
 Currently, I am pursuing a degree in artificial intelligence at DTU while working as a data scientist at SEB. My master’s thesis involves deploying AI models based on ultrasound video feeds to provide navigational support for novice sonographers. I have extensive experience working with various data modalities, from tabular financial data to images, videos, and text. 
 As my time away from screen I like to cook and play tennis (right aiming to raise my Danish Tennis Federation ranking by playing in tournaments).
 
-Upon graduation, I am eager to find a new position where I can apply and further develop my AI skills.
+Upon graduation, I am eager to apply and further develop my AI skills.

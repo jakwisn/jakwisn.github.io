@@ -5,7 +5,7 @@
     "email": "jakwisn@gmail.com",
     "phone": "+45 31 78 52 46",
     "url": "https://linkedin.com/in/jakwisn",
-    "summary": "Skilled data scientist with expertise in AI and experience in researching and developing DS and ML solutions. Demonstrated leadership through academic and professional contributions, including research, mentorship, and organizing events. Upon graduation, I intend to seek a new position where I can leverage and further advance my skills in AI.",
+    "summary": "Skilled data scientist with expertise in AI and experience in researching and developing DS and ML solutions. Demonstrated leadership through academic and professional contributions, including research, mentorship, and organizing events. Upon graduation, I intend to leverage and further advance my skills in AI.",
     "profiles": [
       {
         "network": "GitHub",
@@ -21,7 +21,7 @@
       "position": "Data Scientist",
       "startDate": "2022-02-01",
       "endDate": "Present",
-      "summary": "Developing data processing pipelines and machine learning models for client-facing analytics tools.",
+      "summary": "Developing data processing pipelines, machine learning models and AI for client-facing analytics tools.",
       "highlights": [
         "Developed payment data processing pipeline using SQL, Pandas, Numpy, and Scikit-learn that fed data into Neo4j database.",
         "Created containerized applications with Docker, SQLite, and FastAPI hosted via Cloud Run on Google Cloud.",
@@ -42,7 +42,7 @@
       "highlights": [
         "Developed and maintained R and Python open-source packages for Explainable ML and Fairness.",
         "Created a large-scale database of medical DICOM images for research purposes.",
-        "Trained deep learning models on a multi-GPU cluster using Slurm environment.",
+        "Trained deep learning models written in PyTorch on a multi-GPU cluster using Slurm environment.",
         "Created a text annotation tool in Dash to expedite radiologist collaboration.",
         "Published articles and presented research at CVPR workshop and useR! 2021 conference."
       ]
@@ -56,7 +56,7 @@
       "area": "Artificial Intelligence",
       "startDate": "2023-02-01",
       "endDate": "2025-02-01",
-      "summary": "Master's program focused on Artificial Intelligence and Data Science."
+      "summary": "Master's program focused on Artificial Intelligence and Data Science. Master thesis: 'AI based navigational support for obstetric ultrasound imaging"
     },
     {
       "institution": "Warsaw University of Technology",
@@ -65,7 +65,7 @@
       "area": "Data Science",
       "startDate": "2018-10-01",
       "endDate": "2022-02-01",
-      "summary": "Bachelor of Science degree in Data Science."
+      "summary": "Bachelor of Science degree in Data Science. Bachelor thesis: 'AI regulations database with the analytical user interface module' - supervised by P. Biecek"
     }
   ],
   "skills": [
